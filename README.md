@@ -25,10 +25,21 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Skills Analysis**:
     
+    - Git and GitHub
+    - Programing (C++)
+    - Software Development (HTML and CSS)
+    - Photography
+    - Problem-Solving
+    - Adaptability
+    - Teamwork
+    - Creativity
+    - communication
     - List your current skills and areas of expertise.
     - Identify skills you need to develop or improve.
 2. **Interests and Values**:
     
+    - My current interest is becoming a software Developer as we are on the era where everything is digitalise or evolving around technology, taking Software Development and Programming langueges as a stepping stone to persuing Cybersecurity and to work remotely.
+    - Important values in working environment are, Integrity, Innovation, Creativity, Respact, Loyalty, Personal Development, Teamwork, Collaboration, Flexibility and Growth.
     - Describe your key interests related to your career.
     - What values are important to you in a work environment?
 
