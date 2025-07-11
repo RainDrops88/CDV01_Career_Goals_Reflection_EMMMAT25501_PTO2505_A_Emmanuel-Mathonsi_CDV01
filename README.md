@@ -34,12 +34,14 @@ By completing this reflection, you will gain a clearer understanding of your car
     - Teamwork
     - Creativity
     - communication
+
     - List your current skills and areas of expertise.
     - Identify skills you need to develop or improve.
 2. **Interests and Values**:
     
     - My current interest is becoming a software Developer as we are on the era where everything is digitalise or evolving around technology, taking Software Development and Programming langueges as a stepping stone to persuing Cybersecurity and to work remotely.
     - Important values in working environment are, Integrity, Innovation, Creativity, Respact, Loyalty, Personal Development, Teamwork, Collaboration, Flexibility and Growth.
+
     - Describe your key interests related to your career.
     - What values are important to you in a work environment?
 
@@ -48,9 +50,25 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Industries and Roles Explored**:
     
     - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+
+        - Front-End Developer
+        - Back-End Developer
+        - Full-Stack Developer
+        - Specialized Developer
+        - Software Architect
+        - Database Developer
+
+    - Areas that piqued my interest.
+
+        - Full-Stack Developer
+        - Specialized Developer
+        - Software Architect
+        - Database Developer
+
 2. **Alignment with Personal Profile**:
     
+    - with the basic knowledge of software development and programming langueges that i have it gives me an advantage to progress smoothly to reaching or achieving my goals as a software developer and a Cybersecurity specialist, by being creative, innovative, collaborating with others as a team member, being loyal to myself and working with intergrity.
+
     - Reflect on how these industries/roles align with your skills, interests, and values.
     - Identify any gaps or areas for further exploration.
 
@@ -58,10 +76,15 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Short-term Goals** (Next 1-2 years):
     
+    - Complete Software Development course, this will offer me the exposure to the tech environment and a great understanding of how the web and software are created and how they function.
+
+    - Learn other programming langueges like Python, Java, SQL and other programming languegers, as the tech environment evolves around the programming langueges and understanding them gives the power to control and protect them.
+
     - List your specific, measurable, achievable, relevant, and time-bound goals.
     - Explain the rationale behind each goal.
 2. **Long-term Goals** (3-5 years and beyond):
     
+    - 
     - Outline your long-term career aspirations.
     - Describe how these align with your interests and skills.
 
